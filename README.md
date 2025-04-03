@@ -439,8 +439,13 @@ Projects that can finish apps autonomously or assist with troubleshooting:
   An extensible AI agent that installs, executes, edits, and tests with any LLM.  
   - 📝 [Blog](https://block.github.io/goose/blog/2025/01/28/introducing-codename-goose/)
 
-- 📂 **[SlackAgent](https://github.com/ArcadeAI/SlackAgent)**  
+- 📂 **[SlackAgent](https://github.com/ArcadeAI/SlackAgent)**
   An AI agent integrated with Slack for workflow automation.
+
+- 📂 **[LightAgent](https://github.com/wxai-space/LightAgent)**  
+  A highly lightweight, active Agentic Framework designed for multi-agent collaboration, resembling a swarm
+
+
 
 ## Deep Research
 
