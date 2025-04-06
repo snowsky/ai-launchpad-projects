@@ -82,6 +82,8 @@
 
 - 🌐 **[BentoML](https://bentoml.com)**  
   A framework for building, shipping, and scaling AI applications with ease.
+  - 🌐 **[Yatai](https://github.com/bentoml/Yatai)**
+    Model Deployment at Scale on Kubernetes 🦄️
 
 - 📂 **[OpenLLM](https://github.com/bentoml/OpenLLM)**  
   Run any open-source LLMs (e.g., Llama, Mistral) as OpenAI-compatible API endpoints in the cloud.
