@@ -447,6 +447,8 @@ Projects that can finish apps autonomously or assist with troubleshooting:
 - 📂 **[LightAgent](https://github.com/wxai-space/LightAgent)**  
   A highly lightweight, active Agentic Framework designed for multi-agent collaboration, resembling a swarm
 
+- 📂 **[Refact](https://github.com/smallcloudai/refact)**  
+  AI Agent that handles engineering tasks end-to-end
 
 
 ## Deep Research
