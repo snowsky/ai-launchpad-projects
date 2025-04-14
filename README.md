@@ -555,6 +555,9 @@ Projects that can finish apps autonomously or assist with troubleshooting:
 - 📂 **[TFMCP](https://github.com/nwiizo/tfmcp)**  
   A TensorFlow-based MCP project.
 
+- 📂 **[FastAPI MCP](https://github.com/tadata-org/fastapi_mcp)**
+  A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
+
 ## Aggregation Sites
 
 - 🌐 **[Smithery AI](https://smithery.ai/)**  
