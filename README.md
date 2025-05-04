@@ -416,6 +416,9 @@ Projects that can finish apps autonomously or assist with troubleshooting:
 - 📂 **[Autogen](https://github.com/microsoft/autogen)**  
   A multi-agent conversation framework from Microsoft.
 
+- 📂 **[AG2](https://github.com/ag2ai/ag2)**  
+  AG2 (Community fork of Autogen): The Open-Source AgentOS
+
 - 📂 **[CrewAI](https://github.com/joaomdmoura/crewAI)**  
   A framework for orchestrating role-playing AI agents.
 
