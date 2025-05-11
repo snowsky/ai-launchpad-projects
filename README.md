@@ -561,6 +561,9 @@ Projects that can finish apps autonomously or assist with troubleshooting:
 - 📂 **[FastAPI MCP](https://github.com/tadata-org/fastapi_mcp)**
   A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
 
+- 📂 **[DeepChat]([https://github.com/nwiizo/tfmcp](https://github.com/ThinkInAIXYZ/deepchat))**  
+  A smart assistant that connects powerful AI to your personal world.
+
 ## Aggregation Sites
 
 - 🌐 **[Smithery AI](https://smithery.ai/)**  
